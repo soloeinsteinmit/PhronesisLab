@@ -26,7 +26,8 @@ Our mission is to provide a comprehensive, structured learning path that builds 
 │   │   └── Exercises/
 │   ├── Week_2_Functions_and_Modules/
 │   ├── Week_3_Data_Structures/
-│   └── Week_4_Loops_and_Conditionals/
+|   ├── Week_4_Loops_and_Conditionals/
+│   └── etc ...
 ├── Future_Topics/
 │   └── Topic_Name/
 └── Solutions/
@@ -61,8 +62,8 @@ Our mission is to provide a comprehensive, structured learning path that builds 
 
 #### 🔮 Future Topics
 We'll be expanding into various areas including:
-- Advanced Data Structures & Algorithms (Java)
 - Advanced Programming Concepts (OOP etc...)
+- Advanced Data Structures & Algorithms (Java)
 - Web Development, React (HTML, CSS, JavaScript)
 - Database Management (MySQL)
 - More coming soon...
